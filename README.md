@@ -20,6 +20,6 @@ Hey! Thanks for taking the time to read this. This is my first project I built u
 
 
 
-###Extra Notes
+### Extra Notes
 
 Feel free to checkout the githubs of the users I made cards of! They are amazing individuals whom have taught me a ton over my journey of becoming a software developer!
