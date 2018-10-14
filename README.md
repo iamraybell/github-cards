@@ -1,16 +1,16 @@
-#Simple GitHub Cards Project
+# Simple GitHub Cards Project
 
-##About
+## About
 Hey! Thanks for taking the time to read this. This is my first project I built using React! I have always used Angular on the FrontEnd, but not I'm trying to dive in this this library.
 
-##Tools
+## Tools
 -ReactJS
 -HTML5
 -Javascript
 -NodeJs
 
 
-##Instructions
+## Instructions
 
 1) Download project from Github
 2) run npm install in project folder
